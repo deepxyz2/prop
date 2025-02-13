@@ -59,7 +59,7 @@ function App() {
     setKitPhrase("mwah mwah , mama love you!");
     setConfettiActive(true);
     setBubbleVisible(true);
-    const audio = new Audio("/audio/blue.mp3");
+    const audio = new Audio("audio/blue.mp3");
     audio.play();
     setyesvis(false);
   };
