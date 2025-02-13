@@ -74,7 +74,7 @@ function App() {
             {kitphrases}
           </div>
           <img src={image} alt="Reaction" className="image" />
-          <h1 className="title">lorem</h1>
+          <h1 className="title">will you be my valentine ?</h1>
         </div>
 
         <div className="button-container">
